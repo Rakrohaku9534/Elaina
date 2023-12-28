@@ -44,15 +44,15 @@ global.sid = '-' //s.id
 global.psaweria = '-' //saweria
 
 /*============== NOMOR ==============*/
-global.nomorwa = '6285712408309' //whatsapp
+global.nomorwa = '18252555452' //whatsapp
 global.nomorbot = '6285712408309' //nomor Bot
-global.nomorown = '6285712408309' //nomor Owner
+global.nomorown = '18252555452' //nomor Owner
 global.namebot = 'ᴇʟᴀɪɴᴀ ᴀɪ' //nama Bot
 global.nameown = 'ғᴀʟʟ' //nama Owner
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285712408309', 'ғᴀʟʟ', true] //creator/owner
+  ['18252555452', 'ғᴀʟʟ', true] //creator/owner
 ] //put your number here
 global.mods = [] //moderator
 global.prems = [] //prem bukan disini
@@ -324,7 +324,7 @@ global.wait = '🚩 ʟᴏᴀᴅɪɴɢ ᴘʟᴇᴀsᴇ ᴡᴀɪᴛ... '
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 857-1240-8309'
+global.phn = '+1 (825) 255-5452'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
