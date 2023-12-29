@@ -63,7 +63,7 @@ const defaultMenu = {
  . . ┊⿻ [ *ᴅᴀᴛᴇ* :: %date]. . 
  . . ┊⿻ [ *ᴘʟᴀᴛғᴏʀᴍ* :: %platform]. . 
  . . ┊⿻ [ *ʟɪʙʀᴀʀʏ* :: @whiskeysocket/baileys]. . 
- . . ┊⿻ [ *ᴄʀᴇᴀᴛᴏʀ* :: ʀᴇʏᴢ ʜᴀʏᴀɴsɪ]. . 
+ . . ┊⿻ [ *ᴄʀᴇᴀᴛᴏʀ* :: ғᴀʟʟ]. . 
  . . ╰─────────╮
 
 エラーを見つけた場合、またはプレミアム プランをアップグレードしたい場合は、所有者に連絡してください。
@@ -72,7 +72,7 @@ const defaultMenu = {
   header: '─₍🍁₎❝┊ *%category*',
   body: `┊꒱ ☁   %cmd %islimit %isPremium `,
   footer: '╰─── –',
-  after: `ᴇʟᴀɪɴᴀ ᴀɪ ʙʏ ʀᴇʏᴢ ʜᴀʏᴀɴᴀsɪ ${global.version}`,
+  after: `ᴇʟᴀɪɴᴀ ᴀɪ ʙʏ ғᴀʟʟ ${global.version}`,
 }
   try {
     let name = m.pushName || conn.getName(m.sender)
@@ -173,7 +173,7 @@ const defaultMenu = {
                     forwardingScore: 2023,
                     title: 'ᴍ ᴇ ɴ ᴜ  ʙ ᴏ ᴛ  ᴇ ʟ ᴀ ɪ ɴ ᴀ',
                     thumbnailUrl: 'https://telegra.ph/file/002e7bf25b03f8e54fcc1.jpg',
-                    sourceUrl: 'https://s.id/ReyzShop',
+                    sourceUrl: 'https://whatsapp.com/channel/0029VaDUaJC8kyyPvXrxte1x',
                     mediaType: 1,
                     renderLargerThumbnail: true,
                     mentionedJid: [m.sender]
